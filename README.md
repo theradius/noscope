@@ -1,7 +1,7 @@
 # noscope
 A tool for taking snapshots of a Python stack frame. All names in a scope can be saved and loaded with minimal syntax.
 
-Useful in debugging, recursive breakpointing, moving state between python processes and general testing.
+Useful in debugging, recursive breakpointing, moving state between Python processes and general testing.
 
 ## Installation
 
